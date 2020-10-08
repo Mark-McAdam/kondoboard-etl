@@ -36,4 +36,4 @@ pytest
 [FastAPI - Swagger documentation](http://kondoboard-ds-environment.eba-u7c3zdzn.us-east-1.elasticbeanstalk.com/docs)  
  
 ## License
-![License](./LICENSE/)
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/Mark-McAdam/kondoboard-etl/blob/dependabot/pip/uvicorn-0.11.7/LICENSE)
