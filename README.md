@@ -2,6 +2,8 @@
 
 This repo contains the extract, transform, load application for Kondoboard, a platform that allows Lambda School students to browse, save, and track job postings during the job hunt. 
 
+This project contains two parts in order to function, the repository Kondoboard-API holds the other half that handles api calls to the elasticsearch database. 
+
 ## Table of Contents
 - [Diagrams](#diagrams)
 - [Install](#install) 
