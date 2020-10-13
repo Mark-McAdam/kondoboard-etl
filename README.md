@@ -1,4 +1,4 @@
-# kondoboard-cron
+# kondoboard-etl
 
 This repo contains the extract, transform, load application for Kondoboard, a platform that allows Lambda School students to browse, save, and track job postings during the job hunt. 
 
